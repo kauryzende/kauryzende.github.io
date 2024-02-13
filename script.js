@@ -2,10 +2,10 @@
     {text: "", images: "first.gif"},
     {text: "mouahaha tu n'as pas le choix", images: "mouahaha.gif"},
     {text: "Shpouck shpouck", images: "second.gif"},
-    {text: "miam miam ramen?", images: "third.gif"},
+    {text: "miam miam ramen?", images: "ramen.gif"},
     {text: "ACCEPTEEEEE", images: "third.gif"}
 ];
-const ohyes = {text: "hehehe you're in danger", images: "mouahaha.gif"};
+const ohyes = {text: "hehehe you're in danger", images: "kidnap.gif"};
 const title = document.querySelector('.title');
 const text = document.querySelector('.text');
 const cat = document.querySelector('.cat');
